@@ -1,0 +1,33 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Qu\IeC {\'e} es y qu\IeC {\'e} puede hacer un lenguaje de programaci\IeC {\'o}n}{2}
+\contentsline {section}{\numberline {1.1}Sint\IeC {\'a}xis y Sem\IeC {\'a}ntica}{2}
+\contentsline {section}{\numberline {1.2} Sint\IeC {\'a}xis a traves de gram\IeC {\'a}ticas}{2}
+\contentsline {chapter}{\numberline {2}C\IeC {\'o}mo funcionan los lenguajes de programaci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {2.1}Compilador}{3}
+\contentsline {subsection}{\numberline {2.1.1}Fases de un compilador}{3}
+\contentsline {subsubsection}{Tipado fuerte}{4}
+\contentsline {section}{\numberline {2.2}Paradigma Imperativo}{4}
+\contentsline {subsection}{\numberline {2.2.1}Conceptos fundamentales}{4}
+\contentsline {subsection}{\numberline {2.2.2}Elementos b\IeC {\'a}sicos}{5}
+\contentsline {subsection}{\numberline {2.2.3}Declaraci\IeC {\'o}nes de variables}{5}
+\contentsline {subsection}{\numberline {2.2.4}Ubicaci\IeC {\'o}n y valores de variables}{5}
+\contentsline {subsection}{\numberline {2.2.5}Sem\IeC {\'a}ntica de copia vs. Sem\IeC {\'a}ntica de referencia}{5}
+\contentsline {subsection}{\numberline {2.2.6}Variables y asignaci\IeC {\'o}n}{5}
+\contentsline {subsubsection}{L-valor y R-valor en C}{5}
+\contentsline {subsection}{\numberline {2.2.7}Control de flujo estructurado}{5}
+\contentsline {subsubsection}{Estilo moderno}{6}
+\contentsline {chapter}{\numberline {3}Estructura en bloques}{7}
+\contentsline {section}{\numberline {3.1}Estructura de bloque}{7}
+\contentsline {subsubsection}{Manejo de memoria}{7}
+\contentsline {subsection}{\numberline {3.1.1}Alcance y lifetime}{7}
+\contentsline {section}{\numberline {3.2}Activation records}{7}
+\contentsline {subsubsection}{Ejemplo de activation record}{8}
+\contentsline {chapter}{\numberline {4}Control de la ejecuci\IeC {\'o}n}{9}
+\contentsline {section}{\numberline {4.1}Pasaje de par\IeC {\'a}metros}{9}
+\contentsline {section}{\numberline {4.2}Alcance}{10}
+\contentsline {section}{\numberline {4.3}Alto orden}{10}
+\contentsline {subsection}{\numberline {4.3.1}Funciones de primera clase}{10}
+\contentsline {subsection}{\numberline {4.3.2}Pasar funciones a otras funciones}{11}
+\contentsline {section}{\numberline {4.4}Recursi\IeC {\'o}n a la cola}{11}
+\contentsline {section}{\numberline {4.5}Excepciones}{11}
+\contentsline {chapter}{\numberline {5}Orientaci\IeC {\'o}n a objetos}{12}
